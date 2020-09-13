@@ -1,2 +1,2 @@
 # Data Science Projects 
-A set of my personal Data Science projects.
+A set of my personal Data Science projects. Direct link to each project:
