@@ -1,0 +1,19 @@
+id,
+1,TION Haggis
+2,
+3,@ATTRIBUTE skin             {hairy,smooth}
+4,@ATTRIBUTE colour           {brown,green,red}
+5,@ATTRIBUTE size             {small,large}
+6,@ATTRIBUTE flesh            {soft,hard}
+7,@ATTRIBUTE eats_shortbread  {0,1}
+8,@ATTRIBUTE length           NUMERIC
+9,@ATTRIBUTE is_haggis {0,1}
+10,
+11,@DATA
+12,hairy,brown,large,hard,1,3.25,1
+13,hairy,green,?,hard,1,4.22,1
+14,?,red,small,soft,0,1.27,0
+15,hairy,green,large,hard,1,3.55,1
+16,smooth,red,small,soft,0,2.13,0
+17,smooth,green,large,soft,1,2.67,0
+18,hairy,?,large,soft,0,3.77,1
