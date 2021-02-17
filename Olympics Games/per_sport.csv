@@ -1,0 +1,929 @@
+Country_x,Sport,Gold_x,Silver_x,Bronze_x,Total
+Afghanistan,Taekwondo,0.0,0.0,2.0,2.0
+Algeria,Athletics,4.0,1.0,2.0,7.0
+Algeria,Boxing,1.0,0.0,5.0,6.0
+Algeria,Judo,0.0,1.0,1.0,2.0
+Argentina,Aquatics,1.0,1.0,1.0,3.0
+Argentina,Athletics,2.0,3.0,0.0,5.0
+Argentina,Basketball,12.0,0.0,12.0,24.0
+Argentina,Boxing,7.0,7.0,10.0,24.0
+Argentina,Cycling,2.0,0.0,0.0,2.0
+Argentina,Equestrian,0.0,1.0,0.0,1.0
+Argentina,Fencing,0.0,0.0,5.0,5.0
+Argentina,Football,32.0,40.0,0.0,72.0
+Argentina,Hockey,0.0,32.0,32.0,64.0
+Argentina,Judo,0.0,0.0,1.0,1.0
+Argentina,Polo,10.0,0.0,0.0,10.0
+Argentina,Rowing,2.0,1.0,3.0,6.0
+Argentina,Sailing,0.0,11.0,9.0,20.0
+Argentina,Shooting,0.0,1.0,0.0,1.0
+Argentina,Taekwondo,1.0,0.0,0.0,1.0
+Argentina,Tennis,0.0,1.0,5.0,6.0
+Argentina,Volleyball,0.0,0.0,12.0,12.0
+Argentina,Weightlifting,0.0,1.0,1.0,2.0
+Armenia,Boxing,0.0,0.0,1.0,1.0
+Armenia,Weightlifting,0.0,0.0,4.0,4.0
+Armenia,Wrestling,1.0,2.0,3.0,6.0
+Australia,Aquatics,121.0,139.0,140.0,400.0
+Australia,Archery,1.0,0.0,1.0,2.0
+Australia,Athletics,24.0,35.0,25.0,84.0
+Australia,Baseball,0.0,24.0,0.0,24.0
+Australia,Basketball,0.0,36.0,24.0,60.0
+Australia,Boxing,0.0,1.0,3.0,4.0
+Australia,Canoe,4.0,1.0,0.0,5.0
+Australia,Canoe / Kayak,2.0,9.0,22.0,33.0
+Australia,Cycling,26.0,24.0,26.0,76.0
+Australia,Equestrian,17.0,7.0,7.0,31.0
+Australia,Gymnastics,0.0,1.0,0.0,1.0
+Australia,Hockey,64.0,46.0,79.0,189.0
+Australia,Judo,0.0,0.0,2.0,2.0
+Australia,Rowing,21.0,48.0,66.0,135.0
+Australia,Sailing,21.0,11.0,14.0,46.0
+Australia,Shooting,4.0,1.0,5.0,10.0
+Australia,Softball,0.0,15.0,45.0,60.0
+Australia,Taekwondo,1.0,1.0,0.0,2.0
+Australia,Tennis,2.0,2.0,5.0,9.0
+Australia,Triathlon,1.0,2.0,2.0,5.0
+Australia,Volleyball,2.0,0.0,2.0,4.0
+Australia,Weightlifting,1.0,1.0,2.0,4.0
+Australia,Wrestling,0.0,1.0,2.0,3.0
+Austria,Aquatics,1.0,6.0,8.0,15.0
+Austria,Athletics,1.0,2.0,4.0,7.0
+Austria,Canoe / Kayak,4.0,7.0,10.0,21.0
+Austria,Cycling,1.0,0.0,2.0,3.0
+Austria,Equestrian,1.0,4.0,1.0,6.0
+Austria,Fencing,1.0,7.0,5.0,13.0
+Austria,Football,0.0,13.0,0.0,13.0
+Austria,Handball,0.0,22.0,0.0,22.0
+Austria,Judo,2.0,2.0,1.0,5.0
+Austria,Rowing,0.0,5.0,4.0,9.0
+Austria,Sailing,5.0,5.0,0.0,10.0
+Austria,Shooting,1.0,2.0,5.0,8.0
+Austria,Tennis,0.0,2.0,0.0,2.0
+Austria,Triathlon,1.0,0.0,0.0,1.0
+Austria,Weightlifting,3.0,4.0,2.0,9.0
+Austria,Wrestling,0.0,0.0,2.0,2.0
+Azerbaijan,Boxing,0.0,0.0,6.0,6.0
+Azerbaijan,Judo,1.0,0.0,1.0,2.0
+Azerbaijan,Shooting,1.0,0.0,2.0,3.0
+Azerbaijan,Weightlifting,0.0,0.0,1.0,1.0
+Azerbaijan,Wrestling,4.0,5.0,5.0,14.0
+Bahamas,Athletics,11.0,9.0,3.0,23.0
+Bahamas,Sailing,2.0,0.0,2.0,4.0
+Bahrain,Athletics,0.0,0.0,1.0,1.0
+Barbados,Athletics,0.0,0.0,1.0,1.0
+Belarus,Aquatics,0.0,2.0,0.0,2.0
+Belarus,Athletics,4.0,6.0,9.0,19.0
+Belarus,Boxing,0.0,2.0,0.0,2.0
+Belarus,Canoe,0.0,4.0,4.0,8.0
+Belarus,Canoe / Kayak,6.0,0.0,4.0,10.0
+Belarus,Cycling,0.0,0.0,1.0,1.0
+Belarus,Gymnastics,0.0,14.0,11.0,25.0
+Belarus,Judo,1.0,0.0,1.0,2.0
+Belarus,Modern Pentathlon,0.0,0.0,1.0,1.0
+Belarus,Rowing,2.0,1.0,14.0,17.0
+Belarus,Shooting,1.0,2.0,4.0,7.0
+Belarus,Tennis,2.0,0.0,1.0,3.0
+Belarus,Weightlifting,1.0,3.0,4.0,8.0
+Belarus,Wrestling,0.0,3.0,5.0,8.0
+Belgium,Aquatics,1.0,34.0,18.0,53.0
+Belgium,Archery,35.0,13.0,3.0,51.0
+Belgium,Athletics,3.0,9.0,2.0,14.0
+Belgium,Boxing,1.0,1.0,2.0,4.0
+Belgium,Cycling,10.0,11.0,19.0,40.0
+Belgium,Equestrian,8.0,5.0,12.0,25.0
+Belgium,Fencing,10.0,21.0,13.0,44.0
+Belgium,Football,14.0,0.0,11.0,25.0
+Belgium,Gymnastics,0.0,24.0,24.0,48.0
+Belgium,Hockey,0.0,0.0,15.0,15.0
+Belgium,Judo,2.0,1.0,8.0,11.0
+Belgium,Rowing,0.0,24.0,4.0,28.0
+Belgium,Sailing,4.0,8.0,7.0,19.0
+Belgium,Shooting,1.0,12.0,3.0,16.0
+Belgium,Tennis,1.0,0.0,2.0,3.0
+Belgium,Tug of War,0.0,0.0,8.0,8.0
+Belgium,Weightlifting,1.0,2.0,1.0,4.0
+Belgium,Wrestling,0.0,3.0,0.0,3.0
+Bermuda*,Boxing,0.0,0.0,1.0,1.0
+Botswana,Athletics,0.0,1.0,0.0,1.0
+Brazil,Aquatics,1.0,4.0,14.0,19.0
+Brazil,Athletics,4.0,7.0,10.0,21.0
+Brazil,Basketball,0.0,12.0,48.0,60.0
+Brazil,Boxing,0.0,1.0,3.0,4.0
+Brazil,Equestrian,1.0,0.0,8.0,9.0
+Brazil,Football,0.0,91.0,36.0,127.0
+Brazil,Gymnastics,1.0,0.0,0.0,1.0
+Brazil,Judo,3.0,3.0,13.0,19.0
+Brazil,Modern Pentathlon,0.0,0.0,1.0,1.0
+Brazil,Sailing,10.0,6.0,16.0,32.0
+Brazil,Shooting,1.0,1.0,5.0,7.0
+Brazil,Taekwondo,0.0,0.0,1.0,1.0
+Brazil,Volleyball,52.0,48.0,30.0,130.0
+Bulgaria,Aquatics,1.0,1.0,1.0,3.0
+Bulgaria,Athletics,5.0,7.0,6.0,18.0
+Bulgaria,Basketball,0.0,12.0,12.0,24.0
+Bulgaria,Boxing,4.0,5.0,9.0,18.0
+Bulgaria,Canoe / Kayak,4.0,6.0,18.0,28.0
+Bulgaria,Equestrian,0.0,5.0,0.0,5.0
+Bulgaria,Football,0.0,18.0,14.0,32.0
+Bulgaria,Gymnastics,2.0,9.0,12.0,23.0
+Bulgaria,Judo,0.0,1.0,2.0,3.0
+Bulgaria,Rowing,5.0,13.0,16.0,34.0
+Bulgaria,Shooting,4.0,6.0,6.0,16.0
+Bulgaria,Tennis,0.0,0.0,1.0,1.0
+Bulgaria,Volleyball,0.0,12.0,12.0,24.0
+Bulgaria,Weightlifting,12.0,16.0,8.0,36.0
+Bulgaria,Wrestling,16.0,32.0,20.0,68.0
+Burundi,Athletics,1.0,0.0,0.0,1.0
+Cameroon,Athletics,2.0,0.0,0.0,2.0
+Cameroon,Boxing,0.0,1.0,1.0,2.0
+Cameroon,Football,18.0,0.0,0.0,18.0
+Cameroon,Weightlifting,0.0,0.0,1.0,1.0
+Canada,Aquatics,12.0,43.0,64.0,119.0
+Canada,Athletics,20.0,23.0,41.0,84.0
+Canada,Basketball,0.0,9.0,0.0,9.0
+Canada,Boxing,3.0,7.0,7.0,17.0
+Canada,Canoe,0.0,1.0,2.0,3.0
+Canada,Canoe / Kayak,5.0,12.0,13.0,30.0
+Canada,Cycling,1.0,5.0,11.0,17.0
+Canada,Equestrian,4.0,5.0,7.0,16.0
+Canada,Football,11.0,0.0,20.0,31.0
+Canada,Golf,1.0,0.0,0.0,1.0
+Canada,Gymnastics,3.0,3.0,2.0,8.0
+Canada,Ice Hockey,8.0,0.0,0.0,8.0
+Canada,Judo,0.0,2.0,3.0,5.0
+Canada,Lacrosse,28.0,0.0,0.0,28.0
+Canada,Rowing,50.0,88.0,59.0,197.0
+Canada,Sailing,0.0,10.0,15.0,25.0
+Canada,Shooting,4.0,13.0,7.0,24.0
+Canada,Taekwondo,0.0,1.0,1.0,2.0
+Canada,Tennis,2.0,0.0,0.0,2.0
+Canada,Triathlon,1.0,1.0,0.0,2.0
+Canada,Volleyball,0.0,0.0,2.0,2.0
+Canada,Weightlifting,0.0,2.0,1.0,3.0
+Canada,Wrestling,2.0,7.0,7.0,16.0
+Chile,Athletics,0.0,2.0,0.0,2.0
+Chile,Boxing,0.0,1.0,2.0,3.0
+Chile,Equestrian,0.0,4.0,0.0,4.0
+Chile,Football,0.0,0.0,18.0,18.0
+Chile,Shooting,0.0,1.0,0.0,1.0
+Chile,Tennis,3.0,1.0,1.0,5.0
+China,Aquatics,58.0,60.0,40.0,158.0
+China,Archery,1.0,14.0,4.0,19.0
+China,Athletics,6.0,7.0,11.0,24.0
+China,Badminton,25.0,13.0,21.0,59.0
+China,Basketball,0.0,12.0,12.0,24.0
+China,Boxing,3.0,2.0,3.0,8.0
+China,Canoe / Kayak,4.0,0.0,0.0,4.0
+China,Cycling,0.0,4.0,3.0,7.0
+China,Fencing,7.0,14.0,4.0,25.0
+China,Football,0.0,16.0,0.0,16.0
+China,Gymnastics,48.0,41.0,24.0,113.0
+China,Handball,0.0,0.0,13.0,13.0
+China,Hockey,0.0,16.0,0.0,16.0
+China,Judo,8.0,3.0,9.0,20.0
+China,Modern Pentathlon,0.0,1.0,0.0,1.0
+China,Rowing,4.0,11.0,11.0,26.0
+China,Sailing,2.0,2.0,1.0,5.0
+China,Shooting,21.0,13.0,15.0,49.0
+China,Softball,0.0,15.0,0.0,15.0
+China,Table Tennis,41.0,21.0,9.0,71.0
+China,Taekwondo,5.0,1.0,2.0,8.0
+China,Tennis,2.0,0.0,2.0,4.0
+China,Volleyball,24.0,14.0,26.0,64.0
+China,Weightlifting,29.0,13.0,8.0,50.0
+China,Wrestling,2.0,3.0,3.0,8.0
+Colombia,Athletics,0.0,1.0,1.0,2.0
+Colombia,Boxing,0.0,0.0,3.0,3.0
+Colombia,Cycling,1.0,1.0,2.0,4.0
+Colombia,Judo,0.0,0.0,1.0,1.0
+Colombia,Shooting,0.0,2.0,0.0,2.0
+Colombia,Taekwondo,0.0,0.0,1.0,1.0
+Colombia,Weightlifting,1.0,2.0,1.0,4.0
+Colombia,Wrestling,0.0,0.0,2.0,2.0
+Costa Rica,Aquatics,1.0,1.0,2.0,4.0
+Cote d'Ivoire,Athletics,0.0,1.0,0.0,1.0
+Croatia,Aquatics,13.0,14.0,0.0,27.0
+Croatia,Athletics,1.0,1.0,0.0,2.0
+Croatia,Basketball,0.0,12.0,0.0,12.0
+Croatia,Gymnastics,0.0,1.0,0.0,1.0
+Croatia,Handball,30.0,0.0,15.0,45.0
+Croatia,Rowing,0.0,6.0,9.0,15.0
+Croatia,Shooting,1.0,0.0,1.0,2.0
+Croatia,Taekwondo,0.0,0.0,3.0,3.0
+Croatia,Tennis,0.0,0.0,5.0,5.0
+Croatia,Weightlifting,1.0,0.0,1.0,2.0
+Cuba,Aquatics,0.0,1.0,1.0,2.0
+Cuba,Athletics,10.0,23.0,25.0,58.0
+Cuba,Baseball,63.0,48.0,0.0,111.0
+Cuba,Basketball,0.0,0.0,12.0,12.0
+Cuba,Boxing,34.0,19.0,14.0,67.0
+Cuba,Canoe / Kayak,0.0,5.0,0.0,5.0
+Cuba,Cycling,0.0,1.0,0.0,1.0
+Cuba,Fencing,5.0,9.0,10.0,24.0
+Cuba,Judo,6.0,13.0,16.0,35.0
+Cuba,Sailing,0.0,2.0,0.0,2.0
+Cuba,Shooting,1.0,0.0,3.0,4.0
+Cuba,Taekwondo,1.0,2.0,2.0,5.0
+Cuba,Volleyball,36.0,0.0,24.0,60.0
+Cuba,Weightlifting,2.0,1.0,2.0,5.0
+Cuba,Wrestling,7.0,5.0,7.0,19.0
+Cyprus,Sailing,0.0,1.0,0.0,1.0
+Czech Republic,Athletics,5.0,1.0,5.0,11.0
+Czech Republic,Boxing,0.0,1.0,0.0,1.0
+Czech Republic,Canoe,0.0,1.0,4.0,5.0
+Czech Republic,Canoe / Kayak,4.0,5.0,4.0,13.0
+Czech Republic,Cycling,1.0,0.0,0.0,1.0
+Czech Republic,Modern Pentathlon,1.0,0.0,1.0,2.0
+Czech Republic,Rowing,1.0,6.0,0.0,7.0
+Czech Republic,Sailing,0.0,1.0,0.0,1.0
+Czech Republic,Shooting,2.0,3.0,4.0,9.0
+Czech Republic,Tennis,0.0,4.0,1.0,5.0
+Czech Republic,Triathlon,0.0,0.0,1.0,1.0
+Denmark,Aquatics,3.0,8.0,6.0,17.0
+Denmark,Athletics,0.0,2.0,4.0,6.0
+Denmark,Badminton,1.0,3.0,5.0,9.0
+Denmark,Boxing,1.0,5.0,6.0,12.0
+Denmark,Canoe / Kayak,4.0,8.0,9.0,21.0
+Denmark,Cycling,12.0,14.0,17.0,43.0
+Denmark,Equestrian,0.0,7.0,4.0,11.0
+Denmark,Fencing,1.0,2.0,3.0,6.0
+Denmark,Football,0.0,34.0,14.0,48.0
+Denmark,Gymnastics,24.0,53.0,21.0,98.0
+Denmark,Handball,46.0,0.0,0.0,46.0
+Denmark,Hockey,0.0,12.0,0.0,12.0
+Denmark,Rowing,26.0,9.0,38.0,73.0
+Denmark,Sailing,24.0,25.0,15.0,64.0
+Denmark,Shooting,7.0,10.0,10.0,27.0
+Denmark,Table Tennis,0.0,0.0,2.0,2.0
+Denmark,Tennis,0.0,1.0,0.0,1.0
+Denmark,Weightlifting,1.0,2.0,0.0,3.0
+Denmark,Wrestling,0.0,2.0,6.0,8.0
+Djibouti,Athletics,0.0,0.0,1.0,1.0
+Dominican Republic,Athletics,2.0,1.0,0.0,3.0
+Dominican Republic,Boxing,1.0,0.0,1.0,2.0
+Dominican Republic,Taekwondo,0.0,1.0,0.0,1.0
+Ecuador,Athletics,1.0,1.0,0.0,2.0
+Egypt,Aquatics,0.0,1.0,1.0,2.0
+Egypt,Boxing,0.0,1.0,3.0,4.0
+Egypt,Fencing,0.0,1.0,0.0,1.0
+Egypt,Judo,0.0,1.0,1.0,2.0
+Egypt,Taekwondo,0.0,0.0,1.0,1.0
+Egypt,Weightlifting,5.0,3.0,3.0,11.0
+Egypt,Wrestling,2.0,3.0,2.0,7.0
+Eritrea,Athletics,0.0,0.0,1.0,1.0
+Estonia,Athletics,2.0,1.0,3.0,6.0
+Estonia,Boxing,0.0,1.0,0.0,1.0
+Estonia,Cycling,1.0,0.0,0.0,1.0
+Estonia,Judo,0.0,0.0,3.0,3.0
+Estonia,Rowing,0.0,3.0,0.0,3.0
+Estonia,Sailing,0.0,0.0,7.0,7.0
+Estonia,Weightlifting,1.0,3.0,3.0,7.0
+Estonia,Wrestling,5.0,2.0,4.0,11.0
+Ethiopia,Athletics,21.0,8.0,16.0,45.0
+Finland,Aquatics,0.0,1.0,3.0,4.0
+Finland,Archery,1.0,3.0,2.0,6.0
+Finland,Athletics,60.0,38.0,30.0,128.0
+Finland,Boxing,2.0,1.0,11.0,14.0
+Finland,Canoe / Kayak,7.0,2.0,5.0,14.0
+Finland,Gymnastics,15.0,25.0,59.0,99.0
+Finland,Modern Pentathlon,0.0,1.0,10.0,11.0
+Finland,Rowing,3.0,2.0,11.0,16.0
+Finland,Sailing,3.0,8.0,24.0,35.0
+Finland,Shooting,4.0,11.0,26.0,41.0
+Finland,Skating,2.0,0.0,0.0,2.0
+Finland,Weightlifting,1.0,0.0,2.0,3.0
+Finland,Wrestling,26.0,28.0,29.0,83.0
+France,Aquatics,24.0,27.0,59.0,110.0
+France,Archery,6.0,24.0,16.0,46.0
+France,Athletics,14.0,35.0,57.0,106.0
+France,Basketball,0.0,38.0,0.0,38.0
+France,Basque Pelota,0.0,2.0,0.0,2.0
+France,Boxing,4.0,7.0,8.0,19.0
+France,Canoe,2.0,0.0,0.0,2.0
+France,Canoe / Kayak,7.0,11.0,29.0,47.0
+France,Cricket,0.0,12.0,0.0,12.0
+France,Croquet,4.0,2.0,2.0,8.0
+France,Cycling,66.0,37.0,33.0,136.0
+France,Equestrian,23.0,23.0,18.0,64.0
+France,Fencing,116.0,83.0,87.0,286.0
+France,Football,17.0,13.0,0.0,30.0
+France,Gymnastics,3.0,17.0,32.0,52.0
+France,Handball,30.0,0.0,16.0,46.0
+France,Judo,12.0,8.0,24.0,44.0
+France,Modern Pentathlon,0.0,0.0,6.0,6.0
+France,Rowing,17.0,43.0,36.0,96.0
+France,Rugby,17.0,46.0,0.0,63.0
+France,Sailing,16.0,13.0,20.0,49.0
+France,Shooting,9.0,26.0,21.0,56.0
+France,Table Tennis,0.0,1.0,2.0,3.0
+France,Taekwondo,0.0,2.0,4.0,6.0
+France,Tennis,7.0,8.0,15.0,30.0
+France,Tug of War,0.0,6.0,0.0,6.0
+France,Water Motorsports,1.0,0.0,0.0,1.0
+France,Weightlifting,9.0,3.0,3.0,15.0
+France,Wrestling,4.0,4.0,9.0,17.0
+Gabon,Taekwondo,0.0,1.0,0.0,1.0
+Georgia,Boxing,0.0,0.0,1.0,1.0
+Georgia,Judo,3.0,1.0,2.0,6.0
+Georgia,Shooting,0.0,0.0,1.0,1.0
+Georgia,Weightlifting,1.0,0.0,1.0,2.0
+Georgia,Wrestling,2.0,4.0,9.0,15.0
+Germany,Aquatics,27.0,69.0,80.0,176.0
+Germany,Archery,0.0,3.0,3.0,6.0
+Germany,Athletics,16.0,40.0,51.0,107.0
+Germany,Boxing,4.0,9.0,9.0,22.0
+Germany,Canoe,5.0,5.0,4.0,14.0
+Germany,Canoe / Kayak,54.0,32.0,25.0,111.0
+Germany,Cycling,28.0,17.0,20.0,65.0
+Germany,Equestrian,60.0,18.0,22.0,100.0
+Germany,Fencing,13.0,13.0,30.0,56.0
+Germany,Football,0.0,0.0,53.0,53.0
+Germany,Gymnastics,47.0,11.0,13.0,71.0
+Germany,Handball,22.0,15.0,0.0,37.0
+Germany,Hockey,65.0,38.0,38.0,141.0
+Germany,Judo,3.0,2.0,12.0,17.0
+Germany,Modern Pentathlon,2.0,0.0,1.0,3.0
+Germany,Rowing,75.0,41.0,64.0,180.0
+Germany,Rugby,0.0,15.0,0.0,15.0
+Germany,Sailing,5.0,9.0,13.0,27.0
+Germany,Shooting,7.0,8.0,10.0,25.0
+Germany,Skating,2.0,1.0,1.0,4.0
+Germany,Table Tennis,0.0,5.0,5.0,10.0
+Germany,Taekwondo,0.0,1.0,1.0,2.0
+Germany,Tennis,4.0,6.0,3.0,13.0
+Germany,Triathlon,1.0,1.0,0.0,2.0
+Germany,Volleyball,2.0,0.0,2.0,4.0
+Germany,Weightlifting,6.0,7.0,7.0,20.0
+Germany,Wrestling,4.0,12.0,8.0,24.0
+Ghana,Boxing,0.0,1.0,2.0,3.0
+Ghana,Football,0.0,0.0,13.0,13.0
+Greece,Aquatics,3.0,16.0,3.0,22.0
+Greece,Athletics,6.0,12.0,11.0,29.0
+Greece,Cycling,1.0,3.0,0.0,4.0
+Greece,Fencing,2.0,1.0,1.0,4.0
+Greece,Gymnastics,4.0,6.0,11.0,21.0
+Greece,Judo,1.0,0.0,1.0,2.0
+Greece,Rowing,0.0,2.0,4.0,6.0
+Greece,Sailing,6.0,2.0,6.0,14.0
+Greece,Shooting,3.0,8.0,3.0,14.0
+Greece,Taekwondo,1.0,3.0,0.0,4.0
+Greece,Tennis,0.0,1.0,1.0,2.0
+Greece,Weightlifting,6.0,5.0,4.0,15.0
+Greece,Wrestling,1.0,3.0,7.0,11.0
+Grenada,Athletics,1.0,0.0,0.0,1.0
+Guatemala,Athletics,0.0,1.0,0.0,1.0
+Guyana,Boxing,0.0,0.0,1.0,1.0
+Haiti,Athletics,0.0,1.0,0.0,1.0
+Haiti,Shooting,0.0,0.0,7.0,7.0
+Hong Kong*,Cycling,0.0,0.0,1.0,1.0
+Hong Kong*,Sailing,1.0,0.0,0.0,1.0
+Hong Kong*,Table Tennis,0.0,2.0,0.0,2.0
+Hungary,Aquatics,135.0,57.0,58.0,250.0
+Hungary,Athletics,10.0,12.0,23.0,45.0
+Hungary,Boxing,10.0,2.0,8.0,20.0
+Hungary,Canoe,7.0,6.0,1.0,14.0
+Hungary,Canoe / Kayak,38.0,56.0,43.0,137.0
+Hungary,Equestrian,0.0,0.0,2.0,2.0
+Hungary,Fencing,100.0,59.0,68.0,227.0
+Hungary,Football,46.0,17.0,17.0,80.0
+Hungary,Gymnastics,20.0,45.0,45.0,110.0
+Hungary,Handball,0.0,15.0,30.0,45.0
+Hungary,Judo,1.0,3.0,5.0,9.0
+Hungary,Modern Pentathlon,17.0,12.0,9.0,38.0
+Hungary,Rowing,0.0,4.0,4.0,8.0
+Hungary,Sailing,0.0,0.0,2.0,2.0
+Hungary,Shooting,7.0,3.0,7.0,17.0
+Hungary,Tennis,0.0,0.0,1.0,1.0
+Hungary,Weightlifting,2.0,9.0,9.0,20.0
+Hungary,Wrestling,19.0,16.0,19.0,54.0
+Iceland,Athletics,0.0,1.0,1.0,2.0
+Iceland,Handball,0.0,14.0,0.0,14.0
+Iceland,Judo,0.0,0.0,1.0,1.0
+India,Athletics,0.0,2.0,0.0,2.0
+India,Badminton,0.0,0.0,1.0,1.0
+India,Boxing,0.0,0.0,2.0,2.0
+India,Hockey,127.0,13.0,29.0,169.0
+India,Shooting,1.0,2.0,1.0,4.0
+India,Tennis,0.0,0.0,1.0,1.0
+India,Weightlifting,0.0,0.0,1.0,1.0
+India,Wrestling,0.0,1.0,3.0,4.0
+Indonesia,Archery,0.0,3.0,0.0,3.0
+Indonesia,Badminton,9.0,9.0,8.0,26.0
+Indonesia,Weightlifting,0.0,4.0,5.0,9.0
+Iran,Athletics,0.0,1.0,0.0,1.0
+Iran,Taekwondo,2.0,1.0,2.0,5.0
+Iran,Weightlifting,6.0,6.0,5.0,17.0
+Iran,Wrestling,8.0,13.0,17.0,38.0
+Iraq,Weightlifting,0.0,0.0,1.0,1.0
+Ireland,Aquatics,3.0,0.0,1.0,4.0
+Ireland,Athletics,4.0,2.0,1.0,7.0
+Ireland,Boxing,2.0,5.0,9.0,16.0
+Ireland,Equestrian,0.0,0.0,1.0,1.0
+Ireland,Sailing,0.0,2.0,0.0,2.0
+Israel,Canoe / Kayak,0.0,0.0,1.0,1.0
+Israel,Judo,0.0,1.0,2.0,3.0
+Israel,Sailing,1.0,0.0,2.0,3.0
+Italy,Aquatics,54.0,32.0,41.0,127.0
+Italy,Archery,4.0,6.0,5.0,15.0
+Italy,Athletics,19.0,18.0,35.0,72.0
+Italy,Basketball,0.0,23.0,0.0,23.0
+Italy,Boxing,15.0,15.0,17.0,47.0
+Italy,Canoe,1.0,0.0,0.0,1.0
+Italy,Canoe / Kayak,7.0,9.0,6.0,22.0
+Italy,Cycling,64.0,33.0,18.0,115.0
+Italy,Equestrian,9.0,17.0,19.0,45.0
+Italy,Fencing,145.0,128.0,71.0,344.0
+Italy,Football,14.0,0.0,39.0,53.0
+Italy,Gymnastics,67.0,22.0,20.0,109.0
+Italy,Judo,3.0,3.0,7.0,13.0
+Italy,Modern Pentathlon,4.0,4.0,5.0,13.0
+Italy,Rowing,36.0,58.0,45.0,139.0
+Italy,Sailing,9.0,4.0,13.0,26.0
+Italy,Shooting,12.0,12.0,11.0,35.0
+Italy,Taekwondo,1.0,1.0,1.0,3.0
+Italy,Tennis,0.0,0.0,1.0,1.0
+Italy,Volleyball,0.0,23.0,36.0,59.0
+Italy,Weightlifting,5.0,4.0,5.0,14.0
+Italy,Wrestling,7.0,4.0,9.0,20.0
+Jamaica,Athletics,31.0,49.0,46.0,126.0
+Jamaica,Cycling,0.0,0.0,1.0,1.0
+Japan,Aquatics,26.0,57.0,68.0,151.0
+Japan,Archery,0.0,3.0,4.0,7.0
+Japan,Athletics,7.0,7.0,12.0,26.0
+Japan,Badminton,0.0,2.0,0.0,2.0
+Japan,Baseball,0.0,20.0,44.0,64.0
+Japan,Boxing,2.0,0.0,3.0,5.0
+Japan,Cycling,0.0,3.0,3.0,6.0
+Japan,Equestrian,1.0,0.0,0.0,1.0
+Japan,Fencing,0.0,5.0,0.0,5.0
+Japan,Football,0.0,18.0,16.0,34.0
+Japan,Gymnastics,59.0,47.0,53.0,159.0
+Japan,Hockey,0.0,11.0,0.0,11.0
+Japan,Judo,36.0,18.0,18.0,72.0
+Japan,Sailing,0.0,2.0,2.0,4.0
+Japan,Shooting,1.0,2.0,3.0,6.0
+Japan,Softball,15.0,15.0,15.0,45.0
+Japan,Table Tennis,0.0,3.0,0.0,3.0
+Japan,Taekwondo,0.0,0.0,1.0,1.0
+Japan,Tennis,0.0,3.0,0.0,3.0
+Japan,Volleyball,36.0,36.0,36.0,108.0
+Japan,Weightlifting,2.0,3.0,8.0,13.0
+Japan,Wrestling,28.0,17.0,17.0,62.0
+Kazakhstan,Athletics,2.0,0.0,1.0,3.0
+Kazakhstan,Boxing,6.0,5.0,6.0,17.0
+Kazakhstan,Cycling,1.0,1.0,0.0,2.0
+Kazakhstan,Judo,0.0,1.0,0.0,1.0
+Kazakhstan,Modern Pentathlon,1.0,0.0,0.0,1.0
+Kazakhstan,Shooting,0.0,2.0,1.0,3.0
+Kazakhstan,Taekwondo,0.0,0.0,1.0,1.0
+Kazakhstan,Weightlifting,1.0,4.0,2.0,7.0
+Kazakhstan,Wrestling,1.0,4.0,9.0,14.0
+Kenya,Athletics,27.0,34.0,25.0,86.0
+Kenya,Boxing,1.0,1.0,5.0,7.0
+"Korea, North",Boxing,2.0,3.0,3.0,8.0
+"Korea, North",Gymnastics,2.0,0.0,0.0,2.0
+"Korea, North",Judo,2.0,2.0,4.0,8.0
+"Korea, North",Shooting,1.0,0.0,1.0,2.0
+"Korea, North",Table Tennis,0.0,1.0,3.0,4.0
+"Korea, North",Volleyball,0.0,0.0,11.0,11.0
+"Korea, North",Weightlifting,4.0,4.0,5.0,13.0
+"Korea, North",Wrestling,3.0,2.0,5.0,10.0
+"Korea, South",Aquatics,1.0,3.0,0.0,4.0
+"Korea, South",Archery,41.0,11.0,8.0,60.0
+"Korea, South",Athletics,1.0,1.0,0.0,2.0
+"Korea, South",Badminton,11.0,12.0,10.0,33.0
+"Korea, South",Baseball,24.0,0.0,24.0,48.0
+"Korea, South",Basketball,0.0,12.0,0.0,12.0
+"Korea, South",Boxing,3.0,7.0,10.0,20.0
+"Korea, South",Fencing,6.0,5.0,7.0,18.0
+"Korea, South",Football,0.0,0.0,18.0,18.0
+"Korea, South",Gymnastics,1.0,4.0,4.0,9.0
+"Korea, South",Handball,25.0,57.0,14.0,96.0
+"Korea, South",Hockey,0.0,48.0,0.0,48.0
+"Korea, South",Judo,11.0,14.0,15.0,40.0
+"Korea, South",Shooting,6.0,7.0,1.0,14.0
+"Korea, South",Table Tennis,4.0,6.0,23.0,33.0
+"Korea, South",Taekwondo,10.0,2.0,2.0,14.0
+"Korea, South",Volleyball,0.0,0.0,12.0,12.0
+"Korea, South",Weightlifting,3.0,4.0,6.0,13.0
+"Korea, South",Wrestling,11.0,11.0,13.0,35.0
+Kuwait,Shooting,0.0,0.0,2.0,2.0
+Kyrgyzstan,Judo,0.0,0.0,1.0,1.0
+Kyrgyzstan,Wrestling,0.0,1.0,1.0,2.0
+Latvia,Athletics,0.0,4.0,1.0,5.0
+Latvia,Canoe / Kayak,0.0,2.0,0.0,2.0
+Latvia,Cycling,2.0,0.0,1.0,3.0
+Latvia,Gymnastics,1.0,1.0,0.0,2.0
+Latvia,Judo,0.0,0.0,1.0,1.0
+Latvia,Modern Pentathlon,0.0,1.0,0.0,1.0
+Latvia,Shooting,0.0,1.0,0.0,1.0
+Latvia,Volleyball,0.0,0.0,2.0,2.0
+Latvia,Weightlifting,0.0,1.0,1.0,2.0
+Latvia,Wrestling,0.0,1.0,0.0,1.0
+Lebanon,Weightlifting,0.0,1.0,0.0,1.0
+Lebanon,Wrestling,0.0,1.0,2.0,3.0
+Lithuania,Aquatics,1.0,0.0,0.0,1.0
+Lithuania,Athletics,3.0,1.0,1.0,5.0
+Lithuania,Basketball,0.0,0.0,36.0,36.0
+Lithuania,Boxing,0.0,0.0,1.0,1.0
+Lithuania,Canoe,0.0,1.0,0.0,1.0
+Lithuania,Cycling,0.0,0.0,1.0,1.0
+Lithuania,Modern Pentathlon,1.0,2.0,1.0,4.0
+Lithuania,Rowing,0.0,0.0,2.0,2.0
+Lithuania,Sailing,0.0,1.0,0.0,1.0
+Lithuania,Shooting,1.0,0.0,0.0,1.0
+Lithuania,Wrestling,0.0,0.0,2.0,2.0
+Luxembourg,Athletics,1.0,0.0,0.0,1.0
+Luxembourg,Weightlifting,0.0,1.0,0.0,1.0
+Macedonia,Wrestling,0.0,0.0,1.0,1.0
+Malaysia,Aquatics,0.0,0.0,1.0,1.0
+Malaysia,Badminton,0.0,4.0,3.0,7.0
+Mauritius,Boxing,0.0,0.0,1.0,1.0
+Mexico,Aquatics,2.0,8.0,8.0,18.0
+Mexico,Archery,0.0,1.0,1.0,2.0
+Mexico,Athletics,3.0,5.0,2.0,10.0
+Mexico,Basketball,0.0,0.0,11.0,11.0
+Mexico,Boxing,2.0,3.0,7.0,12.0
+Mexico,Cycling,0.0,1.0,1.0,2.0
+Mexico,Equestrian,4.0,1.0,14.0,19.0
+Mexico,Fencing,0.0,1.0,0.0,1.0
+Mexico,Football,18.0,0.0,0.0,18.0
+Mexico,Polo,0.0,0.0,4.0,4.0
+Mexico,Shooting,0.0,1.0,0.0,1.0
+Mexico,Taekwondo,2.0,1.0,3.0,6.0
+Mexico,Weightlifting,1.0,0.0,0.0,1.0
+Mexico,Wrestling,0.0,1.0,0.0,1.0
+Moldova,Boxing,0.0,0.0,2.0,2.0
+Moldova,Canoe / Kayak,0.0,2.0,0.0,2.0
+Moldova,Shooting,0.0,1.0,0.0,1.0
+Moldova,Wrestling,0.0,0.0,1.0,1.0
+Mongolia,Boxing,1.0,2.0,3.0,6.0
+Mongolia,Judo,1.0,2.0,4.0,7.0
+Mongolia,Shooting,0.0,1.0,1.0,2.0
+Mongolia,Wrestling,0.0,4.0,5.0,9.0
+Morocco,Athletics,6.0,5.0,8.0,19.0
+Morocco,Boxing,0.0,0.0,3.0,3.0
+Mozambique,Athletics,1.0,0.0,1.0,2.0
+Namibia,Athletics,0.0,4.0,0.0,4.0
+Netherlands,Aquatics,41.0,45.0,56.0,142.0
+Netherlands,Archery,8.0,0.0,1.0,9.0
+Netherlands,Athletics,9.0,3.0,9.0,21.0
+Netherlands,Badminton,0.0,1.0,0.0,1.0
+Netherlands,Boxing,1.0,1.0,4.0,6.0
+Netherlands,Canoe / Kayak,0.0,4.0,8.0,12.0
+Netherlands,Cycling,23.0,22.0,16.0,61.0
+Netherlands,Equestrian,18.0,31.0,7.0,56.0
+Netherlands,Fencing,0.0,0.0,24.0,24.0
+Netherlands,Football,0.0,0.0,36.0,36.0
+Netherlands,Gymnastics,13.0,0.0,0.0,13.0
+Netherlands,Hockey,80.0,81.0,88.0,249.0
+Netherlands,Judo,4.0,2.0,16.0,22.0
+Netherlands,Rowing,16.0,49.0,52.0,117.0
+Netherlands,Sailing,8.0,17.0,12.0,37.0
+Netherlands,Shooting,0.0,1.0,5.0,6.0
+Netherlands,Tennis,0.0,2.0,2.0,4.0
+Netherlands,Tug of War,0.0,8.0,0.0,8.0
+Netherlands,Volleyball,12.0,12.0,0.0,24.0
+Netherlands,Weightlifting,0.0,0.0,3.0,3.0
+Netherlands Antilles*,Sailing,0.0,1.0,0.0,1.0
+New Zealand,Aquatics,2.0,1.0,3.0,6.0
+New Zealand,Athletics,10.0,2.0,8.0,20.0
+New Zealand,Boxing,1.0,1.0,1.0,3.0
+New Zealand,Canoe,1.0,0.0,0.0,1.0
+New Zealand,Canoe / Kayak,10.0,3.0,1.0,14.0
+New Zealand,Cycling,1.0,2.0,10.0,13.0
+New Zealand,Equestrian,3.0,5.0,15.0,23.0
+New Zealand,Hockey,16.0,0.0,0.0,16.0
+New Zealand,Rowing,28.0,6.0,30.0,64.0
+New Zealand,Sailing,12.0,9.0,5.0,26.0
+New Zealand,Shooting,0.0,0.0,1.0,1.0
+New Zealand,Triathlon,1.0,1.0,1.0,3.0
+Niger,Boxing,0.0,0.0,1.0,1.0
+Nigeria,Athletics,1.0,16.0,23.0,40.0
+Nigeria,Boxing,0.0,3.0,3.0,6.0
+Nigeria,Football,18.0,18.0,0.0,36.0
+Nigeria,Taekwondo,0.0,0.0,1.0,1.0
+Nigeria,Weightlifting,0.0,1.0,0.0,1.0
+Norway,Aquatics,0.0,1.0,1.0,2.0
+Norway,Athletics,7.0,5.0,8.0,20.0
+Norway,Boxing,1.0,2.0,2.0,5.0
+Norway,Canoe,1.0,0.0,0.0,1.0
+Norway,Canoe / Kayak,8.0,5.0,8.0,21.0
+Norway,Cycling,2.0,0.0,2.0,4.0
+Norway,Equestrian,0.0,3.0,0.0,3.0
+Norway,Fencing,0.0,1.0,0.0,1.0
+Norway,Football,18.0,0.0,32.0,50.0
+Norway,Gymnastics,25.0,58.0,22.0,105.0
+Norway,Handball,28.0,29.0,15.0,72.0
+Norway,Rowing,4.0,18.0,30.0,52.0
+Norway,Sailing,81.0,41.0,7.0,129.0
+Norway,Shooting,31.0,30.0,15.0,76.0
+Norway,Skating,0.0,3.0,1.0,4.0
+Norway,Taekwondo,0.0,2.0,0.0,2.0
+Norway,Tennis,0.0,0.0,1.0,1.0
+Norway,Weightlifting,1.0,0.0,0.0,1.0
+Norway,Wrestling,2.0,2.0,1.0,5.0
+Pakistan,Boxing,0.0,0.0,1.0,1.0
+Pakistan,Hockey,42.0,45.0,32.0,119.0
+Pakistan,Wrestling,0.0,0.0,1.0,1.0
+Panama,Athletics,1.0,0.0,2.0,3.0
+Paraguay,Football,0.0,17.0,0.0,17.0
+Peru,Shooting,1.0,2.0,0.0,3.0
+Peru,Volleyball,0.0,12.0,0.0,12.0
+Philippines,Aquatics,0.0,0.0,2.0,2.0
+Philippines,Athletics,0.0,0.0,2.0,2.0
+Philippines,Boxing,0.0,2.0,3.0,5.0
+Poland,Aquatics,1.0,3.0,2.0,6.0
+Poland,Archery,0.0,1.0,3.0,4.0
+Poland,Athletics,27.0,26.0,16.0,69.0
+Poland,Boxing,8.0,9.0,26.0,43.0
+Poland,Canoe,0.0,0.0,2.0,2.0
+Poland,Canoe / Kayak,0.0,12.0,20.0,32.0
+Poland,Cycling,0.0,18.0,4.0,22.0
+Poland,Equestrian,1.0,10.0,4.0,15.0
+Poland,Fencing,8.0,35.0,38.0,81.0
+Poland,Football,17.0,29.0,0.0,46.0
+Poland,Gymnastics,1.0,1.0,7.0,9.0
+Poland,Handball,0.0,0.0,14.0,14.0
+Poland,Judo,3.0,3.0,2.0,8.0
+Poland,Modern Pentathlon,5.0,0.0,0.0,5.0
+Poland,Rowing,8.0,9.0,29.0,46.0
+Poland,Sailing,1.0,0.0,3.0,4.0
+Poland,Shooting,4.0,3.0,5.0,12.0
+Poland,Volleyball,12.0,0.0,24.0,36.0
+Poland,Weightlifting,5.0,6.0,21.0,32.0
+Poland,Wrestling,5.0,9.0,11.0,25.0
+Portugal,Athletics,4.0,2.0,4.0,10.0
+Portugal,Canoe,0.0,2.0,0.0,2.0
+Portugal,Cycling,0.0,1.0,0.0,1.0
+Portugal,Equestrian,0.0,0.0,9.0,9.0
+Portugal,Judo,0.0,0.0,1.0,1.0
+Portugal,Sailing,0.0,4.0,4.0,8.0
+Portugal,Shooting,0.0,1.0,0.0,1.0
+Portugal,Triathlon,0.0,1.0,0.0,1.0
+Puerto Rico*,Athletics,0.0,0.0,1.0,1.0
+Puerto Rico*,Boxing,0.0,1.0,5.0,6.0
+Puerto Rico*,Wrestling,0.0,1.0,0.0,1.0
+Qatar,Athletics,0.0,0.0,2.0,2.0
+Qatar,Shooting,0.0,0.0,1.0,1.0
+Qatar,Weightlifting,0.0,0.0,1.0,1.0
+Russia,Aquatics,54.0,49.0,45.0,148.0
+Russia,Archery,0.0,0.0,1.0,1.0
+Russia,Athletics,26.0,40.0,34.0,100.0
+Russia,Badminton,0.0,0.0,2.0,2.0
+Russia,Basketball,0.0,0.0,35.0,35.0
+Russia,Boxing,9.0,5.0,12.0,26.0
+Russia,Canoe,2.0,0.0,3.0,5.0
+Russia,Canoe / Kayak,1.0,5.0,9.0,15.0
+Russia,Cycling,4.0,7.0,8.0,19.0
+Russia,Fencing,24.0,9.0,14.0,47.0
+Russia,Gymnastics,45.0,31.0,33.0,109.0
+Russia,Handball,15.0,14.0,14.0,43.0
+Russia,Judo,3.0,4.0,6.0,13.0
+Russia,Modern Pentathlon,3.0,1.0,0.0,4.0
+Russia,Rowing,4.0,0.0,13.0,17.0
+Russia,Sailing,0.0,3.0,0.0,3.0
+Russia,Shooting,7.0,11.0,9.0,27.0
+Russia,Taekwondo,0.0,1.0,2.0,3.0
+Russia,Tennis,2.0,3.0,3.0,8.0
+Russia,Volleyball,12.0,36.0,24.0,72.0
+Russia,Weightlifting,3.0,10.0,11.0,24.0
+Russia,Wrestling,25.0,9.0,13.0,47.0
+Saudi Arabia,Athletics,0.0,1.0,0.0,1.0
+Saudi Arabia,Equestrian,0.0,0.0,5.0,5.0
+Senegal,Athletics,0.0,1.0,0.0,1.0
+Serbia,Aquatics,0.0,13.0,0.0,13.0
+Serbia,Shooting,0.0,1.0,0.0,1.0
+Singapore,Table Tennis,0.0,3.0,0.0,3.0
+Singapore,Weightlifting,0.0,1.0,0.0,1.0
+Slovakia,Aquatics,0.0,2.0,0.0,2.0
+Slovakia,Canoe,0.0,0.0,3.0,3.0
+Slovakia,Canoe / Kayak,10.0,7.0,5.0,22.0
+Slovakia,Judo,0.0,1.0,0.0,1.0
+Slovakia,Shooting,0.0,2.0,3.0,5.0
+Slovakia,Wrestling,0.0,0.0,1.0,1.0
+Slovenia,Aquatics,0.0,1.0,0.0,1.0
+Slovenia,Athletics,1.0,2.0,1.0,4.0
+Slovenia,Canoe / Kayak,0.0,1.0,0.0,1.0
+Slovenia,Judo,1.0,0.0,2.0,3.0
+Slovenia,Rowing,2.0,2.0,8.0,12.0
+Slovenia,Sailing,0.0,1.0,1.0,2.0
+Slovenia,Shooting,1.0,0.0,2.0,3.0
+South Africa,Aquatics,9.0,3.0,12.0,24.0
+South Africa,Athletics,6.0,15.0,6.0,27.0
+South Africa,Boxing,6.0,4.0,9.0,19.0
+South Africa,Canoe,0.0,0.0,1.0,1.0
+South Africa,Cycling,1.0,9.0,6.0,16.0
+South Africa,Rowing,4.0,0.0,2.0,6.0
+South Africa,Shooting,0.0,5.0,0.0,5.0
+South Africa,Tennis,4.0,3.0,1.0,8.0
+Spain,Aquatics,14.0,41.0,12.0,67.0
+Spain,Archery,3.0,0.0,0.0,3.0
+Spain,Athletics,2.0,4.0,5.0,11.0
+Spain,Basketball,0.0,36.0,0.0,36.0
+Spain,Basque Pelota,2.0,0.0,0.0,2.0
+Spain,Boxing,0.0,2.0,2.0,4.0
+Spain,Canoe,0.0,2.0,1.0,3.0
+Spain,Canoe / Kayak,3.0,9.0,4.0,16.0
+Spain,Cycling,5.0,6.0,7.0,18.0
+Spain,Equestrian,3.0,7.0,1.0,11.0
+Spain,Fencing,0.0,0.0,1.0,1.0
+Spain,Football,12.0,36.0,0.0,48.0
+Spain,Gymnastics,8.0,2.0,1.0,11.0
+Spain,Handball,0.0,0.0,59.0,59.0
+Spain,Hockey,16.0,48.0,14.0,78.0
+Spain,Judo,3.0,1.0,2.0,6.0
+Spain,Polo,0.0,6.0,0.0,6.0
+Spain,Rowing,0.0,2.0,0.0,2.0
+Spain,Sailing,24.0,8.0,1.0,33.0
+Spain,Shooting,0.0,2.0,1.0,3.0
+Spain,Taekwondo,1.0,3.0,0.0,4.0
+Spain,Tennis,1.0,9.0,5.0,15.0
+Spain,Triathlon,0.0,1.0,0.0,1.0
+Spain,Volleyball,0.0,2.0,0.0,2.0
+Spain,Weightlifting,1.0,0.0,0.0,1.0
+Spain,Wrestling,0.0,0.0,1.0,1.0
+Sri Lanka,Athletics,0.0,2.0,0.0,2.0
+Sudan,Athletics,0.0,1.0,0.0,1.0
+Suriname,Aquatics,1.0,0.0,1.0,2.0
+Sweden,Aquatics,14.0,38.0,49.0,101.0
+Sweden,Archery,0.0,2.0,0.0,2.0
+Sweden,Athletics,21.0,31.0,51.0,103.0
+Sweden,Boxing,0.0,5.0,6.0,11.0
+Sweden,Canoe / Kayak,23.0,23.0,11.0,57.0
+Sweden,Cycling,6.0,10.0,20.0,36.0
+Sweden,Equestrian,36.0,22.0,23.0,81.0
+Sweden,Fencing,6.0,13.0,7.0,26.0
+Sweden,Football,12.0,0.0,34.0,46.0
+Sweden,Gymnastics,116.0,7.0,1.0,124.0
+Sweden,Handball,0.0,62.0,0.0,62.0
+Sweden,Modern Pentathlon,9.0,9.0,7.0,25.0
+Sweden,Rowing,0.0,10.0,0.0,10.0
+Sweden,Sailing,34.0,44.0,35.0,113.0
+Sweden,Shooting,32.0,54.0,41.0,127.0
+Sweden,Skating,3.0,2.0,1.0,6.0
+Sweden,Table Tennis,1.0,1.0,1.0,3.0
+Sweden,Tennis,0.0,6.0,8.0,14.0
+Sweden,Triathlon,0.0,1.0,0.0,1.0
+Sweden,Tug of War,8.0,0.0,0.0,8.0
+Sweden,Weightlifting,0.0,0.0,4.0,4.0
+Sweden,Wrestling,28.0,27.0,29.0,84.0
+Switzerland,Aquatics,0.0,0.0,1.0,1.0
+Switzerland,Athletics,0.0,6.0,2.0,8.0
+Switzerland,Canoe / Kayak,0.0,4.0,0.0,4.0
+Switzerland,Cycling,3.0,13.0,7.0,23.0
+Switzerland,Equestrian,5.0,28.0,18.0,51.0
+Switzerland,Fencing,1.0,10.0,12.0,23.0
+Switzerland,Football,0.0,22.0,0.0,22.0
+Switzerland,Gymnastics,23.0,40.0,20.0,83.0
+Switzerland,Handball,0.0,0.0,17.0,17.0
+Switzerland,Judo,1.0,1.0,2.0,4.0
+Switzerland,Rowing,19.0,27.0,24.0,70.0
+Switzerland,Sailing,0.0,3.0,3.0,6.0
+Switzerland,Shooting,14.0,6.0,20.0,40.0
+Switzerland,Tennis,3.0,1.0,0.0,4.0
+Switzerland,Triathlon,2.0,0.0,2.0,4.0
+Switzerland,Volleyball,0.0,0.0,2.0,2.0
+Switzerland,Weightlifting,0.0,2.0,2.0,4.0
+Switzerland,Wrestling,4.0,4.0,6.0,14.0
+Syria,Athletics,1.0,0.0,0.0,1.0
+Syria,Boxing,0.0,0.0,1.0,1.0
+Syria,Wrestling,0.0,1.0,0.0,1.0
+Taiwan,Archery,0.0,3.0,3.0,6.0
+Taiwan,Athletics,0.0,1.0,1.0,2.0
+Taiwan,Baseball,0.0,20.0,0.0,20.0
+Taiwan,Table Tennis,0.0,1.0,1.0,2.0
+Taiwan,Taekwondo,2.0,1.0,5.0,8.0
+Taiwan,Weightlifting,1.0,1.0,4.0,6.0
+Tajikistan,Boxing,0.0,0.0,1.0,1.0
+Tajikistan,Judo,0.0,0.0,1.0,1.0
+Tajikistan,Wrestling,0.0,1.0,0.0,1.0
+Tanzania,Athletics,0.0,2.0,0.0,2.0
+Thailand,Boxing,4.0,4.0,6.0,14.0
+Thailand,Taekwondo,0.0,1.0,2.0,3.0
+Thailand,Weightlifting,3.0,1.0,4.0,8.0
+Togo,Canoe / Kayak,0.0,0.0,1.0,1.0
+Tonga,Boxing,0.0,1.0,0.0,1.0
+Trinidad and Tobago,Aquatics,0.0,0.0,1.0,1.0
+Trinidad and Tobago,Athletics,1.0,7.0,8.0,16.0
+Trinidad and Tobago,Weightlifting,0.0,1.0,2.0,3.0
+Tunisia,Aquatics,2.0,0.0,1.0,3.0
+Tunisia,Athletics,2.0,2.0,1.0,5.0
+Tunisia,Boxing,0.0,0.0,2.0,2.0
+Turkey,Athletics,0.0,3.0,2.0,5.0
+Turkey,Boxing,0.0,2.0,3.0,5.0
+Turkey,Judo,1.0,0.0,1.0,2.0
+Turkey,Taekwondo,1.0,3.0,2.0,6.0
+Turkey,Weightlifting,8.0,1.0,1.0,10.0
+Turkey,Wrestling,28.0,16.0,14.0,58.0
+Uganda,Athletics,2.0,0.0,1.0,3.0
+Uganda,Boxing,0.0,3.0,1.0,4.0
+Ukraine,Aquatics,4.0,2.0,5.0,11.0
+Ukraine,Archery,1.0,3.0,4.0,8.0
+Ukraine,Athletics,3.0,2.0,15.0,20.0
+Ukraine,Boxing,4.0,3.0,7.0,14.0
+Ukraine,Canoe,1.0,2.0,0.0,3.0
+Ukraine,Canoe / Kayak,1.0,0.0,5.0,6.0
+Ukraine,Cycling,0.0,4.0,2.0,6.0
+Ukraine,Fencing,5.0,0.0,2.0,7.0
+Ukraine,Gymnastics,6.0,8.0,13.0,27.0
+Ukraine,Handball,0.0,0.0,15.0,15.0
+Ukraine,Judo,0.0,1.0,2.0,3.0
+Ukraine,Modern Pentathlon,0.0,0.0,1.0,1.0
+Ukraine,Rowing,4.0,4.0,4.0,12.0
+Ukraine,Sailing,2.0,5.0,4.0,11.0
+Ukraine,Shooting,4.0,1.0,2.0,7.0
+Ukraine,Weightlifting,3.0,2.0,3.0,8.0
+Ukraine,Wrestling,3.0,5.0,6.0,14.0
+United Arab Emirates,Shooting,1.0,0.0,0.0,1.0
+United Kingdom,Aquatics,49.0,40.0,53.0,142.0
+United Kingdom,Archery,2.0,2.0,9.0,13.0
+United Kingdom,Athletics,67.0,119.0,109.0,295.0
+United Kingdom,Badminton,0.0,2.0,2.0,4.0
+United Kingdom,Boxing,17.0,12.0,24.0,53.0
+United Kingdom,Canoe,3.0,2.0,2.0,7.0
+United Kingdom,Canoe / Kayak,1.0,4.0,4.0,9.0
+United Kingdom,Cricket,12.0,0.0,0.0,12.0
+United Kingdom,Cycling,42.0,49.0,54.0,145.0
+United Kingdom,Equestrian,23.0,30.0,23.0,76.0
+United Kingdom,Fencing,1.0,23.0,0.0,24.0
+United Kingdom,Football,33.0,0.0,0.0,33.0
+United Kingdom,Golf,0.0,1.0,1.0,2.0
+United Kingdom,Gymnastics,0.0,2.0,44.0,46.0
+United Kingdom,Hockey,42.0,23.0,61.0,126.0
+United Kingdom,Jeu de paume,0.0,1.0,1.0,2.0
+United Kingdom,Judo,0.0,8.0,10.0,18.0
+United Kingdom,Lacrosse,0.0,18.0,0.0,18.0
+United Kingdom,Modern Pentathlon,4.0,2.0,5.0,11.0
+United Kingdom,Polo,8.0,12.0,5.0,25.0
+United Kingdom,Rackets,3.0,3.0,4.0,10.0
+United Kingdom,Rowing,94.0,108.0,42.0,244.0
+United Kingdom,Rugby,0.0,30.0,0.0,30.0
+United Kingdom,Sailing,65.0,45.0,24.0,134.0
+United Kingdom,Shooting,29.0,36.0,30.0,95.0
+United Kingdom,Skating,1.0,3.0,5.0,9.0
+United Kingdom,Taekwondo,1.0,0.0,2.0,3.0
+United Kingdom,Tennis,23.0,22.0,16.0,61.0
+United Kingdom,Triathlon,1.0,0.0,1.0,2.0
+United Kingdom,Tug of War,17.0,17.0,9.0,43.0
+United Kingdom,Water Motorsports,4.0,0.0,0.0,4.0
+United Kingdom,Weightlifting,1.0,3.0,3.0,7.0
+United Kingdom,Wrestling,3.0,4.0,10.0,17.0
+United States,Aquatics,578.0,344.0,262.0,1184.0
+United States,Archery,22.0,18.0,15.0,55.0
+United States,Athletics,491.0,295.0,208.0,994.0
+United States,Baseball,24.0,0.0,44.0,68.0
+United States,Basketball,258.0,24.0,36.0,318.0
+United States,Boxing,49.0,23.0,39.0,111.0
+United States,Canoe / Kayak,8.0,7.0,6.0,21.0
+United States,Cycling,15.0,23.0,28.0,66.0
+United States,Equestrian,30.0,43.0,48.0,121.0
+United States,Fencing,2.0,14.0,36.0,52.0
+United States,Football,91.0,29.0,12.0,132.0
+United States,Golf,12.0,12.0,3.0,27.0
+United States,Gymnastics,53.0,65.0,60.0,178.0
+United States,Hockey,0.0,0.0,28.0,28.0
+United States,Ice Hockey,0.0,11.0,0.0,11.0
+United States,Jeu de paume,1.0,0.0,0.0,1.0
+United States,Judo,1.0,3.0,8.0,12.0
+United States,Lacrosse,0.0,13.0,0.0,13.0
+United States,Modern Pentathlon,0.0,12.0,5.0,17.0
+United States,Polo,0.0,5.0,4.0,9.0
+United States,Roque,1.0,1.0,1.0,3.0
+United States,Rowing,177.0,100.0,87.0,364.0
+United States,Rugby,46.0,0.0,0.0,46.0
+United States,Sailing,60.0,46.0,33.0,139.0
+United States,Shooting,116.0,36.0,38.0,190.0
+United States,Skating,0.0,0.0,1.0,1.0
+United States,Softball,45.0,15.0,0.0,60.0
+United States,Taekwondo,2.0,2.0,4.0,8.0
+United States,Tennis,32.0,7.0,15.0,54.0
+United States,Triathlon,0.0,0.0,1.0,1.0
+United States,Tug of War,5.0,5.0,5.0,15.0
+United States,Volleyball,48.0,40.0,26.0,114.0
+United States,Weightlifting,16.0,16.0,11.0,43.0
+United States,Wrestling,52.0,43.0,34.0,129.0
+Uruguay,Basketball,0.0,0.0,24.0,24.0
+Uruguay,Boxing,0.0,0.0,1.0,1.0
+Uruguay,Cycling,0.0,1.0,0.0,1.0
+Uruguay,Football,44.0,0.0,0.0,44.0
+Uruguay,Rowing,0.0,1.0,5.0,6.0
+Uzbekistan,Boxing,1.0,0.0,6.0,7.0
+Uzbekistan,Gymnastics,0.0,0.0,2.0,2.0
+Uzbekistan,Judo,0.0,2.0,2.0,4.0
+Uzbekistan,Wrestling,4.0,3.0,0.0,7.0
+Venezuela,Aquatics,0.0,0.0,1.0,1.0
+Venezuela,Athletics,0.0,0.0,1.0,1.0
+Venezuela,Boxing,1.0,2.0,2.0,5.0
+Venezuela,Fencing,1.0,0.0,0.0,1.0
+Venezuela,Shooting,0.0,0.0,1.0,1.0
+Venezuela,Taekwondo,0.0,0.0,2.0,2.0
+Venezuela,Weightlifting,0.0,0.0,1.0,1.0
+Vietnam,Taekwondo,0.0,1.0,0.0,1.0
+Vietnam,Weightlifting,0.0,1.0,0.0,1.0
+Virgin Islands*,Sailing,0.0,1.0,0.0,1.0
+Zambia,Athletics,0.0,1.0,0.0,1.0
+Zambia,Boxing,0.0,0.0,1.0,1.0
+Zimbabwe,Aquatics,2.0,4.0,1.0,7.0
+Zimbabwe,Hockey,16.0,0.0,0.0,16.0
